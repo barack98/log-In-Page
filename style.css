@@ -1,5 +1,5 @@
 body {
-	background-image: url(baraka.jpg);
+	background-image: url(login.jpg);
 	background-size: cover;
 }
 
@@ -8,11 +8,12 @@ body {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	width: 350px;
+	width: 500px;
 	height: 420px;
 	padding: 80px 40px;
 	box-sizing: border-box;
-	background: rgba(0, 0, 0, .5);
+	background: rgba(15, 15, 88, 0.7);
+	border-radius: 15px;
 }
 
 h2 {
